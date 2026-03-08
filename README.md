@@ -2,9 +2,11 @@
 
 <br>
 
+# 📚 Sistema de Gerenciamento de Biblioteca (SQL)
+
 <img src="https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge" alt="Status" /> <img src="https://img.shields.io/badge/Tecnologia-SQL%20Server-0078D4?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" /> <img src="https://img.shields.io/badge/Finalidade-Estudo-blueviolet?style=for-the-badge" alt="Estudo" />
 
-# 📚 Sistema de Gerenciamento de Biblioteca (SQL)
+
 
 Este repositório contém o projeto de banco de dados relacional para um sistema de biblioteca. O projeto abrange desde a criação das tabelas até consultas complexas e manutenção do banco, aplicando conceitos de **Engenharia de Software** para garantir a integridade dos dados.
 
