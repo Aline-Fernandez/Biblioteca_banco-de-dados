@@ -1,26 +1,33 @@
+<img src="https://img.icons8.com/color/144/microsoft-sql-server.png" alt="SQL Server Logo" width="100"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge" alt="Status" /> <img src="https://img.shields.io/badge/Tecnologia-SQL%20Server-0078D4?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" /> <img src="https://img.shields.io/badge/Finalidade-Estudo-blueviolet?style=for-the-badge" alt="Estudo" />
+
 # 📚 Sistema de Gerenciamento de Biblioteca (SQL)
 
-Este repositório contém o projeto de banco de dados relacional para um sistema de biblioteca. O projeto abrange desde a criação das tabelas até consultas complexas e manutenção do banco.
-
-## 🛠️ Estrutura do Projeto
-
-O banco de dados está dividido nos seguintes scripts:
-
-* **[Query_tebelas_biblioteca.sql](./Biblioteca_banco-de-dados/Query_tebelas_biblioteca.sql):** Contém o DDL (Data Definition Language) para criação de todas as tabelas (Livros, Usuários, Empréstimos, etc).
-* **[Query_alterecoes_biblioteca.sql](./Biblioteca_banco-de-dados/Query_alterecoes_biblioteca.sql):** Scripts de manutenção e alteração de estrutura (ALTER TABLE).
-* **[Query_select_biblioteca.sql](./Biblioteca_banco-de-dados/Query_select_biblioteca.sql):** Exemplos de consultas (DQL) para extração de relatórios e dados do sistema.
-* **Diagramas:** Referências textuais da estrutura lógica do banco.
-
-## 🚀 Tecnologias Utilizadas
-
-* **SQL Server** (Transact-SQL)
-* **SQL Server Management Studio (SSMS)**
-
-## 📊 Principais Funcionalidades
-
-* Criação de chaves primárias e estrangeiras para integridade dos dados.
-* Consultas para verificação de livros disponíveis e histórico de empréstimos.
-* Scripts prontos para execução e configuração do ambiente.
+Este repositório contém o projeto de banco de dados relacional para um sistema de biblioteca. O projeto abrange desde a criação das tabelas até consultas complexas e manutenção do banco, aplicando conceitos de **Engenharia de Software** para garantir a integridade dos dados.
 
 ---
-⭐ *Projeto desenvolvido por [Aline Fernandes](https://github.com/Aline-Fernandez)*
+
+## 🚀 Progresso do Projeto
+- [x] **DDL:** Criação de tabelas, chaves primárias e estrangeiras.
+- [x] **DML:** Inserção e manutenção de dados.
+- [x] **DQL:** Consultas complexas, Joins e relatórios.
+- [x] **Manutenção:** Scripts de alteração de estrutura (Alter Table).
+
+## 🛠️ Estrutura do Scripts
+O banco de dados está dividido nos seguintes arquivos:
+
+* **[Query_tebelas_biblioteca.sql](./Biblioteca_banco-de-dados/Query_tebelas_biblioteca.sql):** Criação de todas as tabelas (Livros, Usuários, Empréstimos).
+* **[Query_alterecoes_biblioteca.sql](./Biblioteca_banco-de-dados/Query_alterecoes_biblioteca.sql):** Scripts de manutenção e alteração de estrutura.
+* **[Query_select_biblioteca.sql](./Biblioteca_banco-de-dados/Query_select_biblioteca.sql):** Exemplos de consultas para extração de relatórios.
+
+## 📊 Principais Funcionalidades
+* Garantia de integridade referencial com **Foreign Keys**.
+* Consultas para verificação de livros disponíveis e histórico de empréstimos.
+* Scripts prontos para execução em ambiente **SSMS**.
+
+---
+### ✨ Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aline-fernandes-525a0b23b/)
